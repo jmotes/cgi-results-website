@@ -56,7 +56,7 @@ The Manager of Chapter Relations will combine management skills, passionate ener
 * Develop, implement and manage strategies for long term chapter success (i.e. growth, engagement and positively affecting members’ professional practice)
 * Collaborate with Meeting and Event Management and assist in delivering conferences of the highest standard that meet educational, budgetary, timeline and attendance goals
 * Assist in managing content and speaker selection and onsite conference implementation
-Be available to travel 20-30% time annually including weekends<br />
+* Be available to travel 20-30% time annually including weekends
 Reports to: Director, Chapter Relations<br />
 Exempt - Full Time<br />
 City/State: Nashville, TN<br />
