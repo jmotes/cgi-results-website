@@ -28,7 +28,7 @@ Reports to: Vice President, Finance & Account Management<br />
 FLSA: Exempt - Full Time<br />
 City/State: Little Rock, AR<br />
 
-
+[](/uploads/CGi_JobDesp_Development_and_Fundraising_Manager.pdf)
 
 ### Director of Marketing and Communications
 The Director of Marketing and Communications will further the mission of CGi and our clients by providing the strategic leadership, direction, and management for marketing, communications, and public relations. The Director ensures strategies are created and successfully implemented to build annual revenue as well as maintain our relationships, brand, events, and communications.<br />
