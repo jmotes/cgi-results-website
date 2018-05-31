@@ -20,14 +20,14 @@ Short Description: |-
     <h2>Strategic Planning</h2>
 
     <p>
-    Where will your organization’s greatest impact be felt? What are the accomplishments that you dream
-    about? Translating these from a vision to a workable plan is where CGi’s strategic services can help you.
+    Where will your organization’s greatest impact be? What are the accomplishments that you dream
+    about? Translating these from a vision to a workable plan is where CGi’s strategic services can help.
     Let CGi partner with you to clarify your vision and build a plan to achieve it.
     </p>
 
     <p>
     Strategic planning is a structured process that moves an organization from abstract (vision, ideas) to practical
-    (what will it take to achieve these) and to tactical (which are we going to pursue now?). CGi regularly
+    (what will it take to achieve these) and tactical (which are we going to pursue now?). CGi regularly
     leads a variety of groups and organizations through this process to produce executable plans.
     </p>
 
