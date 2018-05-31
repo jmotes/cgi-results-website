@@ -39,7 +39,7 @@ City/State: Little Rock, AR or Nashville, TN<br />
 
 
 ### Director of Membership
-The Director of Membership will lead member relations’ efforts, including
+The Director of Membership will lead member relations efforts, including
 strategizing, planning for, and implementing activities and services that provide
 value to members and promote membership retention and growth. The Director
 will understand, articulate, and advocate the needs of our members while
@@ -52,11 +52,11 @@ City/State: Little Rock, AR or Nashville, TN<br />
 
 ### Manager of Chapter Relations
 The Manager of Chapter Relations will combine management skills, passionate energy, tenacious attention to detail, determination, and creativity for professional association chapter and membership growth, retention, satisfaction and educational meetings. To facilitate these goals, he or she will:
-*Influence and assist with chapter leadership development, support and succession planning
-*Develop, implement and manage strategies for long term chapter success (i.e. growth, engagement and positively affecting members’ professional practice)
-*Collaborate with Meeting and Event Management and assist in delivering conferences of the highest standard that meet educational, budgetary, timeline and attendance goals
-*Assist in managing content and speaker selection and onsite conference implementation
-*Be available to travel 20-30% time annually including weekends<br />
+* Influence and assist with chapter leadership development, support and succession planning
+* Develop, implement and manage strategies for long term chapter success (i.e. growth, engagement and positively affecting members’ professional practice)
+* Collaborate with Meeting and Event Management and assist in delivering conferences of the highest standard that meet educational, budgetary, timeline and attendance goals
+* Assist in managing content and speaker selection and onsite conference implementation
+Be available to travel 20-30% time annually including weekends<br />
 Reports to: Director, Chapter Relations<br />
 Exempt - Full Time<br />
 City/State: Nashville, TN<br />
