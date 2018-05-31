@@ -40,7 +40,7 @@ Greg's background is in hospital and health system administration. He earned his
 
 After serving in the Vice President role for multiple health systems, Greg transitioned into consulting with hospitals in the fields of case management, operations, cultural change management and performance improvement. In this capacity, he worked with over 100 hospitals.  
 
-Greg created the first hospital case management conference in the U.S., which has now been the premier event for this field for 25 years. Greg was a founding member of the American Case Management Association (ACMA) served as ACMA's first President and currently serves as its CEO.
+Greg created the first hospital case management conference in the U.S., which has now been the premier event for this field for 25 years. Greg was a founding member of the American Case Management Association (ACMA), served as ACMA's first President and currently serves as its CEO.
 
 Greg founded CGi in 2005.
 
