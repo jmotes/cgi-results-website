@@ -26,9 +26,7 @@ Identifies new donors and organizes initiatives to solicit continual funding by 
 Reports to: Vice President, Finance & Account Management<br />
 Exempt - Full Time<br />
 City/State: Little Rock, AR<br />
-[Learn more](/uploads/CGi_JobDesp_Development_and_Fundraising_Manager.pdf){:target="_blank"}<br />
-
-
+[CGi_JobDesp_Development_and_Fundraising_Manager.pdf](/uploads/CGi_JobDesp_Development_and_Fundraising_Manager.pdf)
 
 
 
