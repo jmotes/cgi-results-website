@@ -16,9 +16,7 @@ Short Description: Members are the reason an association exists. Let CGi create 
     <h2>Focus on Your Members</h2>
     
     <p>
-    CGi provides full service association management, including membership services; data
-    management, accounting, customer service, growth; chapter development; fundraising and
-    grants; marketing, communications and social media; and industry surveys and analytics.
+    CGi provides full service association management, including: membership services, data management, accounting, customer service, membership growth, chapter development, fundraising and grants, marketing, communications and social media, and industry surveys and analytics.
     </p>
     <p>
     An association, at its core, is a community of people or organizations that share common goals. At
