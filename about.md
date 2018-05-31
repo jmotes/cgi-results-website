@@ -11,13 +11,13 @@ CGi is able to provide the entire scope of association services including member
 
 We also have extensive experience in producing events, especially educational events in healthcare related areas.
 
-Our approach to work, and our path to client results, revolves around our company values. We strive to apply these in all areas of our day-to-day work.
+Our approach to work and our path to client results encompasses our company values. We strive to apply these in all areas of our day-to-day work.
 
 <hr>
 
 ## CGi Values
 
-At some organization, corporate values are written and then filed away and forgotten. CGi is different. Our values reflect what we believe and are part of the everyday discourse. We integrate them into our team meetings, and they are critical part of our performance evaluation and promotion criteria. If you want to know who we are as a company, our values are the foundation. 
+At some organizations, corporate values are written and then filed away and forgotten. CGi is different. Our values reflect what we believe and are part of the everyday discourse. We integrate these values into our team meetings, and they are critical part of our performance evaluation and promotion criteria. If you want to know who we are as a company, our values are the foundation. 
 
 * Professionalism: represent the company and client(s) well by acting with integrity and accountability to achieve results
 * Transparency: have crucial conversations and communicate with * openness and candor
