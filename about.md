@@ -13,6 +13,7 @@ We also have extensive experience in producing events, especially educational ev
 
 Our approach to work, and our path to client results, revolves around our company values. We strive to apply these in all areas of our day-to-day work.
 
+<hr>
 
 ## CGi Values
 
@@ -26,10 +27,11 @@ At some organization, corporate values are written and then filed away and forgo
 * Determination: be creative, every barrier has a solution’
 * Incomparability: continually strive to set the highest standards
 
+<hr>
 
 ## Leadership
 
-<br /><br />
+<br />
 
 ### L. Greg Cunningham, MHA
 ***CEO***
