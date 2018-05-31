@@ -9,7 +9,7 @@ Short Description: |-
 
 <div class="row my-4">
   <div class="col-md-6">
-    <img src="/uploads/events-2.jpg" alt="Memorable event experiences" />
+    <img src="/uploads/events-2_2.jpg" alt="Memorable event experiences" />
     </div>
     <div class="col-md-6">
     <blockquote class="blockquote text-center">
@@ -52,7 +52,7 @@ Short Description: |-
   </div>
   <div class="col-md-6">
 
-  <img src="/uploads/events-3.jpg" alt="New events" />
+  <img src="/uploads/events-3_2.jpg" alt="New events" />
 
   </div>
 </div>
