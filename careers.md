@@ -35,8 +35,7 @@ The Director of Marketing and Communications will further the mission of CGi and
 Reports to: VP, Sales and Marketing<br />
 Exempt - Full Time<br />
 City/State: Little Rock, AR or Nashville, TN<br />
-
-/uploads/CGi_JobDesp_Director_of_Marketing_Communications.pdf
+[CGi_JobDesp_Director_of_Marketing_Communications.pdf](/uploads/CGi_JobDesp_Director_of_Marketing_Communications.pdf)
 
 
 ### Director of Membership
@@ -48,8 +47,7 @@ enhancing our revenues through retention and business development.<br />
 Reports to: VP, Sales and Marketing<br />
 Exempt - Full Time<br />
 City/State: Little Rock, AR or Nashville, TN<br />
-
-/uploads/CGi_JobDesp_Director_of_Membership.pdf
+[CGi_JobDesp_Director_of_Membership.pdf](/uploads/CGi_JobDesp_Director_of_Membership.pdf)
 
 
 ### Manager of Chapter Relations
@@ -62,8 +60,7 @@ The Manager of Chapter Relations will combine management skills, passionate ener
 Reports to: Director, Chapter Relations<br />
 Exempt - Full Time<br />
 City/State: Nashville, TN<br />
-
-/uploads/CGi_JobDesp_Manager_of_Chapter_Relations.pdf
+[CGi_JobDesp_Manager_of_Chapter_Relations.pdf](/uploads/CGi_JobDesp_Manager_of_Chapter_Relations.pdf)
 
 
 ### Meeting and Event Manager
@@ -75,8 +72,7 @@ CGi is seeking individuals with strong service orientation, a desire to work col
 Reports to: Director, Meeting and Event Management<br />
 Exempt - Full Time<br />
 City/State: Nashville, TN<br />
-
-/uploads/CGi_JobDesp_Meeting_Event_Manager.pdf
+[CGi_JobDesp_Meeting_Event_Manager.pdf](/uploads/CGi_JobDesp_Meeting_Event_Manager.pdf)
 
 
 ### Project Manager - Special Projects
@@ -84,8 +80,7 @@ The Project Manager is responsible for the brainstorming, design and execution o
 Reports to: Director, Product Development and Performance Improvement<br />
 Exempt - Full Time<br />
 City/State: Nashville, TN or Little Rock, AR<br />
-
-/uploads/CGi_JobDesp_Project_Manager_Special_Projects.pdf
+[CGi_JobDesp_Project_Manager_Special_Projects.pdf](/uploads/CGi_JobDesp_Project_Manager_Special_Projects.pdf)
 
 
 
@@ -96,9 +91,7 @@ planning, implementing, and managing sales activities and objectives for CGi.<br
 Reports to: Assistant Director of Sales<br />
 Exempt - Full Time<br />
 City/State: Little Rock, AR<br />
-
-
-/uploads/CGi_JobDesp_Sales_Representative.pdf
+[CGi_JobDesp_Sales_Representative.pdf](/uploads/CGi_JobDesp_Sales_Representative.pdf)
 
 
 ### Staff Accountant - AP
@@ -106,5 +99,4 @@ CGi’s values lie at the heart of how we as individuals and as a company conduc
 Reports to: Controller<br />
 Hourly, Non-Exempt - Full Time<br />
 City/State: Little Rock, AR<br />
-
-/uploads/CGi_JobDesp_Staff_Accountant_AP.pdf
+[CGi_JobDesp_Staff_Accountant_AP.pdf](/uploads/CGi_JobDesp_Staff_Accountant_AP.pdf)
