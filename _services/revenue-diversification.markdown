@@ -17,9 +17,9 @@ Short Description: CGi's ability to deliver results is proven. We create sustain
       year. For a non-diversified association, this can be disastrous.
     </p>
     <p>
-      The solution that CGi has built for other association clients is diversity in revenue streams. While
+      CGi has built solutions for its association clients with diversified revenue streams. While
       membership dues and a large annual event remain major contributors, we can ensure they are not the
-      only contributors by building other sustainable revenue streams that can equal or surpass traditional
+      only contributors by building additional sustainable revenue streams that can equal or surpass traditional
       sources.
     </p>
   </div>
@@ -36,11 +36,11 @@ Short Description: CGi's ability to deliver results is proven. We create sustain
 
     <p>
       CGi's structure is designed to identify entrepreneurial opportunities for its clients, and then manage
-      these effectively using our dedicated product/service development, account management, and sales
+      these effectively using our dedicated product and service development, account management, and sales
       resources.
     </p>
     <p>
-      Call us at 501 954-9244 to start the conversation on how we can build long-term, sustainable sources of revenue for your organization.
+      Call us at (501) 954-9244 to start the conversation on how we can build long-term, sustainable sources of revenue for your organization.
     </p>
   </div>
 </div>
