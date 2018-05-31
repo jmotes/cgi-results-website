@@ -31,7 +31,7 @@ At some organization, corporate values are written and then filed away and forgo
 
 
 
-###L. Greg Cunningham, MHA
+### L. Greg Cunningham, MHA
 ***CEO***
 
 Greg's background is in hospital and health system administration. He earned his Bachelors in Biology and Bachelors in Business Administration from the University of Central Arkansas, and began his health care career as the Governor’s Assistant for Health and Human Services for former Arkansas Governor Bill Clinton. He then completed his Masters in Health Administration from Duke University and a Residency with Carolinas Healthcare System.
@@ -44,7 +44,7 @@ Greg founded CGi in 2005.
 
 
 
-###Randall Archer, MBA
+### Randall Archer, MBA
 ***Vice President, Business & Product Development***
 
 Randall earned a Bachelors of Business Administration from Wake Forest University, and an MBA from Arkansas State University. 
@@ -59,7 +59,7 @@ Outside of his professional life, Randall stays busy with two very active young 
 
 
 
-###Jessie Dalton
+### Jessie Dalton
 ***Director of Chapter Relations***
 
 
@@ -73,7 +73,7 @@ Jessie is based in Nashville, TN.
 
 
 
-###Lis Harrell
+### Lis Harrell
 ***Director, Product Development and Performance Improvement***
 
 Elisabet ‘Lis’ Harrell joined CGi in 2015 and is the Director of Product Development and Performance Improvement for CGi. 
@@ -87,7 +87,7 @@ Lis holds a B.A in Biology from Hendrix College (Conway, AR). She is based in Li
 
 
 
-###Christy Lund
+### Christy Lund
 ***Director of Human Resources***
 
 Christy earned a B.A. Public Relations with minor in Marketing from Southern Methodist University (SMU). She joined CGI in September 2017, as Director of Human Resources. 
@@ -98,7 +98,7 @@ Outside of work, Christy enjoys spending time with her family and friends, garde
 
 
 
-###Deb McElroy, RN, MPH
+### Deb McElroy, RN, MPH
 ***Vice President, Practice Development***
 
 Deb holds a master’s degree in public health and a bachelor’s degree in nursing. Her publications include topics related to chronic disease, nurse residency and advanced practice. 
@@ -111,7 +111,7 @@ Deb joined CGi in 2017 and is based in Chicago, IL.
 
 
 
-###Sandy McFolling, MSN, ACM
+### Sandy McFolling, MSN, ACM
 ***Vice President, Chapter and Meeting Services***
 
 Sandy holds a Bachelor of Science degree from Northern Illinois University, as well as ACM certification and a Masters of Science degree from the University of Illinois. 
@@ -127,7 +127,7 @@ Sandy is based in Chicago, IL.
 
 
 
-###Maria Velasco Salling, MBA
+### Maria Velasco Salling, MBA
 ***Vice President, Finance and Account Management***
 
 Maria holds a Bachelors degree from Harding University, and earned her MBA from the University of Arkansas at Little Rock (UALR).
@@ -138,7 +138,7 @@ Maria currently leads CGi's finance and accounting team, and oversees the financ
 
 
 
-###KT Short
+### KT Short
 ***Director of Meetings and Events***
 
 KT graduated from the University of Mississippi (Ole Miss) with a bachelor’s degree in broadcast journalism and earned her Juris Doctorate from Mississippi College in 2002.
@@ -151,7 +151,7 @@ KT joined CGi in January 2018. She oversees CGi's events management team which p
 
 
 
-###Becky Nations
+### Becky Nations
 ***Vice President, Sales and Marketing***
 
 Becky began her work in managing ACMA's National Conference in 1999, and she was part of the CGi team when it was founded in 2005. In those early years, she helped produce national and regional events for CGi's client organizations. Her focus then shifted to sales, and she was responsible for filling the exhibition halls at these events.
