@@ -34,7 +34,7 @@ Short Description: |-
   </div>
 
   <div class="col-md-6">
-    <img src="/uploads/strategy-2.jpg">
+    <img src="/uploads/strategy-2_2.jpg">
   </div>
 
 </div>
