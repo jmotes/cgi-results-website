@@ -66,17 +66,15 @@ Short Description: |-
   <h2>Existing Events</h2>
 
   <p>
-  Existing events provide both advantages and challenges. It helps to have an existing brand and
-  past participants provide an engaged audience.
-  However, how do you keep an existing event from becoming stagnant? How do you make each
+  Existing events provide both advantages and challenges. While it helps to have an existing brand and
+  past participants provide an engaged audience, how do you keep an existing event from becoming stagnant? How do you make each
   experience memorable for participants, and create in them a strong desire to attend your next event?
   </p>
 
   <p>
-  CGi's portfolio includes events that we have been managing - and growing - for over 20 years. This also
-  requires constant innovation on a successful model to keep our content relevant to a changing
-  environment, and to constantly seek to make the experience memorable, for both the first-time
-  attendee and those who come each year. CGi has the experience  to make your event successful.
+  CGi's portfolio includes events that we have been managing - and growing - for over 20 years. This requires constant innovation on a successful model to keep our content relevant to a changing
+  environment, and to consistently making the experience memorable, for both the first-time
+  attendee and those who attend each year. CGi has the experience  to make your event successful year after year.
   </p>
 
 <!--
