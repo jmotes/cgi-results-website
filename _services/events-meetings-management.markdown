@@ -1,5 +1,5 @@
 ---
-title: Events & Meeting Management
+title: Event & Meeting Management
 position: 0
 Image: "/uploads/events-meetings.jpg"
 Short Description: |-
@@ -17,8 +17,7 @@ Short Description: |-
     <footer class="blockquote-footer"><cite title="Source Title">Carl W. Buehner</cite></footer>
     </blockquote>
     <p>
-    Your events are your brand. You create an experience for your participants, and this experience conveys
-    to them your identity and vision.
+    Your events are your brand. You create an experience for your participants that conveys your identity and vision.
     CGi has a wealth of experience in event development, management, and growth.
     We can manage all aspects of planning (venue research, contracting, logistics, etc), marketing,
     production, sponsorship sales, and trade show coordination.
@@ -38,13 +37,13 @@ Short Description: |-
   </p>
 
   <p>
-  CGi will then execute this plan. We will leverage our broad network to engage the most suitable venue,
-  speakers, and entertainment. At all times keeping in mind that the participant’s experience.
+  CGi will then leverage our broad network to engage the most suitable venue,
+  speakers, and entertainment to execute this plan, at all times keeping in mind that the participant’s experience is critical.
   </p>
 
   <p>
-  New events often require an intense marketing push to create a compelling reason to attend, and get
-  the message out to your potential audience of participants and, potentially, sponsors.
+  New events often require an intense marketing push to create a compelling reason to attend, and deliver 
+  the message to your potential audience of participants and sponsors.
   </p>
 
   <!--<p>[Quote from Juice Plus+]</p>-->
