@@ -7,14 +7,14 @@ layout: page
 
 **CGi Helps ACMA Diversify its Revenue and Add Valuable Training Solution**
 
-The American Case Management Association (ACMA) is non-profit professional membership organization for hospital and health system case management professionals. In 2012, CGi and ACMA’s leadership identified the need in this profession for better training tools. Much of the training for new individuals entering the field was “on-the-job” and based on a preceptor model. With the complexities of this field and rapidly changing healthcare regulations, this left gaps in practitioner competency.
+The American Case Management Association (ACMA) is a non-profit professional membership organization for hospital and health system case management professionals. In 2012, CGi and ACMA’s leadership identified the need in this profession for better training tools. Much of the training for new individuals entering the field was “on-the-job” and based on a preceptor model. The complexities of this field, the rapidly changing healthcare regulations, and this training model left gaps in practitioner competency.
 
 CGi engaged to meet this need and create a potential new revenue stream for ACMA. Our approach focused on three elements:
 To create a minimum viable product, to leverage our network of subject matter experts and to focus on content first. 
 
 **Create a Minimum Viable Product (MVP)**
 
-This was an unproven product concept, and CGi minimized development expenses. The result was a solid initial product offering, but one that escaped large development or maintenance expenses and minimized risk to ACMA.
+This was an unproven product concept, and CGi minimized development expenses. The result was a solid initial product offering which escaped large development or maintenance expenses and minimized risk to ACMA.
 
 **Leverage Our Network of Subject Matter Experts**
 
