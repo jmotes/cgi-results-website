@@ -67,5 +67,4 @@ is a significant undertaking and complex process - one that CGi has successfully
 
 ### Public Policy / Legislative Advocacy
 
-The dream of many association leaders is to be able to influence the laws and regulations that affect their
-industry. For the last several years, CGi has led advocacy efforts on behalf of our association
+The dream of many association leaders is to influence the laws and regulations that impact their industry. For the last several years, CGi has led advocacy efforts on behalf of our association clients.
