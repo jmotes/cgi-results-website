@@ -17,14 +17,14 @@ Our approach to work and our path to client results encompasses our company valu
 
 ## CGi Values
 
-At some organizations, corporate values are written and then filed away and forgotten. CGi is different. Our values reflect what we believe and are part of the everyday discourse. We integrate these values into our team meetings, and they are critical part of our performance evaluation and promotion criteria. If you want to know who we are as a company, our values are the foundation. 
+At some organizations, corporate values are written and then filed away and forgotten. CGi is different. Our values reflect what we believe and are part of the everyday discourse. We integrate these values into our team meetings, and they are a critical part of our performance evaluation and promotion criteria. If you want to know who we are as a company, our values are at the foundation. 
 
 * Professionalism: represent the company and client(s) well by acting with integrity and accountability to achieve results
-* Transparency: have crucial conversations and communicate with * openness and candor
+* Transparency: have crucial conversations and communicate with openness and candor
 * Active participation: maintain awareness, communicate opportunities and be a part of the solution
 * Gratitude: appreciate and acknowledge others who help and support us
 * Service: be driven to help others
-* Determination: be creative, every barrier has a solution’
+* Determination: be creative, every barrier has a solution
 * Incomparability: continually strive to set the highest standards
 
 <hr>
