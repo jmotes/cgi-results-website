@@ -9,7 +9,7 @@ Short Description: Members are the reason an association exists. Let CGi create 
 
 <div class="row mb-5 pb-4">
   <div class="col-md-6">
-    <img src="/uploads/association-management-7.jpg">
+    <img src="/uploads/association-management-8.jpg">
   </div>
   <div class="col-md-6">
 
