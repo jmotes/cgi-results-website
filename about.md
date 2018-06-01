@@ -82,7 +82,7 @@ Elisabet ‘Lis’ Harrell joined CGi in 2015 and is the Director of Product Dev
 
 She has 18+ years of professional experience including case management for family, employment and disability/social security law, registration/licensing compliance management for professional employer organizations, product development for SaaS-based services, human resource services, management of member-based services, including organizational certification and accreditation programs and eLearning development. 
  
-In current role, Lis is responsible for product and program development, including Compass Directional Training, Certification and new members services. Lis is additionally responsible for internal performance improvement and project management initiatives.    
+In her current role, Lis is responsible for product and program development, including Compass Directional Training, Certification and new members services. Lis is additionally responsible for internal performance improvement and project management initiatives.    
  
 Lis holds a B.A in Biology from Hendrix College (Conway, AR). She is based in Little Rock, AR.
 
@@ -158,7 +158,7 @@ KT joined CGi in January 2018. She oversees CGi's events management team which p
 
 Becky began her work in managing ACMA's National Conference in 1999, and she was part of the CGi team when it was founded in 2005. In those early years, she helped produce national and regional events for CGi's client organizations. Her focus then shifted to sales, and she was responsible for filling the exhibition halls at these events.
 
-Now, Becky leads CGi's sales and marketing teams. CGi's sales efforts for its clients include a diverse offering of both business to business and business to consumer services. Becky also oversees marketing for CGi's clients, producing marketing and communication for a variety of services, including membership conferences, and other products/services. 
+Today, as Vice President, Sales and Marketing, Becky leads CGi's sales and marketing teams. CGi's sales efforts for its clients include a diverse offering of both business to business and business to consumer services. Becky also oversees marketing for CGi's clients, producing marketing and communication for a variety of services, including membership conferences, and other products/services. 
 
 Becky earned her Bachelors degree from the University of South Alabama in Mobile, AL. She is an Arkansas native, and based in Little Rock, AR.
 
