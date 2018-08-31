@@ -128,6 +128,18 @@ Sandy is based in Chicago, IL.
 
 
 
+### Becky Nations
+***Vice President, Sales and Marketing***
+
+Becky began her work in managing ACMA's National Conference in 1999, and she was part of the CGi team when it was founded in 2005. In those early years, she helped produce national and regional events for CGi's client organizations. Her focus then shifted to sales, and she was responsible for filling the exhibition halls at these events.
+
+Today, as Vice President, Sales and Marketing, Becky leads CGi's sales and marketing teams. CGi's sales efforts for its clients include a diverse offering of both business to business and business to consumer services. Becky also oversees marketing for CGi's clients, producing marketing and communication for a variety of services, including membership conferences, and other products/services. 
+
+Becky earned her Bachelors degree from the University of South Alabama in Mobile, AL. She is an Arkansas native, and based in Little Rock, AR.
+
+ “You have to stand outside the box to see how the box can be re-designed. --Charles Handy”
+
+
 
 ### Maria Velasco Salling, MBA
 ***Vice President, Finance and Account Management***
@@ -153,13 +165,11 @@ KT joined CGi in January 2018. She oversees CGi's events management team which p
 
 
 
-### Becky Nations
-***Vice President, Sales and Marketing***
+### Aaron Van Son
+***Director, Sales and Products***
 
-Becky began her work in managing ACMA's National Conference in 1999, and she was part of the CGi team when it was founded in 2005. In those early years, she helped produce national and regional events for CGi's client organizations. Her focus then shifted to sales, and she was responsible for filling the exhibition halls at these events.
+Aaron joined CGi in 2014, supporting sales efforts across a variety of client programs and services as Director of Sales.
 
-Today, as Vice President, Sales and Marketing, Becky leads CGi's sales and marketing teams. CGi's sales efforts for its clients include a diverse offering of both business to business and business to consumer services. Becky also oversees marketing for CGi's clients, producing marketing and communication for a variety of services, including membership conferences, and other products/services. 
+He brings to CGi over 14 years of professional experience and a passion for connecting people and institutions to resources that improve their performance. This passion has helped CGi grow both traditional revenue streams for clients such as conference sponsorship and association membership, as well as nontraditional client revenue streams such as ACMA’s Compass Directional Training program (learn more about these diversified revenue streams [here](/results/)). 
 
-Becky earned her Bachelors degree from the University of South Alabama in Mobile, AL. She is an Arkansas native, and based in Little Rock, AR.
-
- “You have to stand outside the box to see how the box can be re-designed. --Charles Handy”
+Aaron earned his BA in Psychology from Hendrix College and his MBA from the University of Phoenix. When not serving CGi’s clients, he enjoys outdoor activities such as cycling, kayaking, and camping, with the occasional board game when the weather dictates indoor activities.
